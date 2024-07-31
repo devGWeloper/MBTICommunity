@@ -1,0 +1,13 @@
+# Node.js 종속성
+node_modules/
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 빌드 아티팩트
+build/
+dist/
+
+# 환경 파일
+.env
